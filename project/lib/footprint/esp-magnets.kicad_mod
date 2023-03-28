@@ -37,6 +37,7 @@
   (pad "" thru_hole circle (at 11 12) (size 1.5 1.5) (drill 1.05) (layers *.Cu *.Mask) (tstamp 24d8c348-885d-4de9-99d4-27865efa19f4))
   (pad "" thru_hole circle (at 9 20) (size 1.5 1.5) (drill 1.05) (layers *.Cu *.Mask) (tstamp 28186e80-bbd9-4a8e-8833-fc425e791941))
   (pad "" thru_hole circle (at 13 20) (size 1.5 1.5) (drill 1.05) (layers *.Cu *.Mask) (tstamp 31944db1-2c0b-4a20-9991-4ddb68892f48))
+  (pad "" smd roundrect (at 9 16) (size 10 14) (layers "B.Cu" "B.Mask") (roundrect_rratio 0.1) (tstamp 3f63fcce-184f-4b7b-ab0e-258ac3621ee9))
   (pad "" thru_hole circle (at 13 14) (size 1.5 1.5) (drill 1.05) (layers *.Cu *.Mask) (tstamp 4a30010e-fcd4-4b8c-823f-6064a5b9d5a6))
   (pad "" thru_hole circle (at 11 16) (size 1.5 1.5) (drill 1.05) (layers *.Cu *.Mask) (tstamp 5da12bdb-b9fe-4124-b3dd-4e8a7cd087f4))
   (pad "" thru_hole circle (at 5 10) (size 1.5 1.5) (drill 1.05) (layers *.Cu *.Mask) (tstamp 5ebc3931-2005-42f4-80b5-f9ac40541028))
