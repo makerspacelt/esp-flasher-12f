@@ -1,9 +1,3 @@
-![PCB 3d main](gen/img_pcb_3d_main_top.png)
-![PCB 3d main](gen/img_pcb_3d_main_mag.png)
-![PCB 3d main](gen/img_pcb_3d_main_bot.png)
-![PCB 3d main](gen/img_pcb_3d_main_bot.png)
-
-
 This is ESP-12F interface to connect with the esp-flasher, featuring pogo-pin snap-on design.
 
 * Designed to snap on top of any ESP-12F module without any provisions for programming or debugging in-place
@@ -18,8 +12,10 @@ Dev NOTE: before commit, run `./kibot.sh` to regenerate documentation, gerbers a
 * [pcb.pdf with dimensions](gen/pcb.pdf)
 
 
-
-
+![PCB 3d main](gen/img_pcb_3d_main_top.png)
+![PCB 3d main](gen/img_pcb_3d_main_mag.png)
+![PCB 3d main](gen/img_pcb_3d_main_bot.png)
+![PCB 3d main](gen/img_pcb_3d_main_bot.png)
 
 
 
