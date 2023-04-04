@@ -50,10 +50,10 @@
       },
       "diff_pair_dimensions": [],
       "drc_exclusions": [
-        "copper_edge_clearance|128000000|100000000|f8fa193f-e06c-4398-b25f-75e260f8514a|518a75f6-2945-4f74-9842-637b54ada818",
-        "copper_edge_clearance|128000000|126000000|f8fa193f-e06c-4398-b25f-75e260f8514a|1e6d3c86-016f-4b7c-9551-a7d2fd253ccb",
-        "copper_edge_clearance|143000000|100000000|f8fa193f-e06c-4398-b25f-75e260f8514a|2ef704d8-2aa9-43d5-84af-234beb747256",
-        "copper_edge_clearance|143000000|126000000|f8fa193f-e06c-4398-b25f-75e260f8514a|17797406-9ee9-4096-aed2-a8c060825b87"
+        "copper_edge_clearance|128000000|100000000|8677223a-5768-42fb-9c9a-ed1aa0d7f27f|5e56c616-bc44-4b96-ae12-9b2ed1d8769a",
+        "copper_edge_clearance|128000000|126000000|8677223a-5768-42fb-9c9a-ed1aa0d7f27f|702a295d-e786-4fb2-81ac-50f7fc41a2a1",
+        "copper_edge_clearance|143000000|100000000|8677223a-5768-42fb-9c9a-ed1aa0d7f27f|e4cc770c-6fe9-4339-a8bb-fe74ca560b44",
+        "copper_edge_clearance|143000000|126000000|8677223a-5768-42fb-9c9a-ed1aa0d7f27f|0dac9158-f822-4d71-8dc5-323bd50a0277"
       ],
       "meta": {
         "version": 2
@@ -336,7 +336,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "project_mag.kicad_pro",
+    "filename": "mag.kicad_pro",
     "version": 1
   },
   "net_settings": {
