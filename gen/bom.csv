@@ -1,0 +1,2 @@
+"Row","Description","Part","References","Value","Footprint","Quantity Per PCB","Status","Datasheet","jlc-part-type","lcsc#"
+"1","Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)","Conn_02x08_Odd_Even","J1","IDC 2x8","IDC-Header_2x08_P2.54mm_Vertical","1"," ","~","E","C3406"

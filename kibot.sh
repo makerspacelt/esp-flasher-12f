@@ -38,7 +38,7 @@ run_kibot --skip-pre all --board bot.kicad_pcb --out-dir ../gen/bot_single      
 
 # concat pcb pdfs
 run_kibot --skip-pre all --out-dir ../gen/ merge_pcb_pdf
-rm gen/pcb_*.pdf
+rm ./gen/pcb_*.pdf
 
 # remove garbage changes from pdfs
 sed -i '/[/]CreationDate.*$/d' ./gen/schematics.pdf
